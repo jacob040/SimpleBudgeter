@@ -9,7 +9,7 @@ window.title('Budgeting')
 window.geometry('1080x1920')
 
 #title
-title_label = ttk.Label(master = window, text = 'Budgeting software', font = 'Elephant 24 bold')
+title_label = ttk.Label(master = window, text = 'Budgeting software', font = 'Elephant 36 bold')
 title_label.pack()
 
 #calculated label
